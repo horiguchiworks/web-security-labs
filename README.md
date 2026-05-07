@@ -1,12 +1,31 @@
 # Web Security Labs
 
-Learning web security through hands-on labs.
+Hands-on web security learning repository.
 
-## Topics
+## About
+This repository contains my practical learning notes and lab walkthroughs focused on web security and OWASP Top 10 vulnerabilities.
+
+## Current Topics
 - SQL Injection
-- XSS
-- Authentication
+- Cross Site Scripting (XSS)
+- Authentication vulnerabilities
 - Access Control
+- CSRF
 
-## Goal
-Understand vulnerabilities and mitigation techniques.
+## Learning Goals
+- Understand attack techniques
+- Learn mitigation methods
+- Improve secure coding knowledge
+- Build practical security skills
+
+## Lab Platforms
+- PortSwigger Web Security Academy
+- OWASP Juice Shop
+
+## Repository Structure
+```text
+SQLi/
+XSS/
+Auth/
+AccessControl/
+CSRF/
