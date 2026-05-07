@@ -23,11 +23,13 @@ This repository contains my practical learning notes and lab walkthroughs focuse
 - OWASP Juice Shop
 
 ## Repository Structure
+```text
 SQLi/
 XSS/
 Auth/
 AccessControl/
 CSRF/
+```
 
 ## Notes
 Each lab includes:
