@@ -29,3 +29,10 @@ XSS/
 Auth/
 AccessControl/
 CSRF/
+
+## Notes
+Each lab includes:
+- Attack steps
+- Payload examples
+- Why the vulnerability works
+- Mitigation techniques
